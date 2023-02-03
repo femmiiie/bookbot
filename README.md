@@ -1,1 +1,1 @@
-# bookbot
+This is my first GitHub project, and for I'm learnimg how to make a bookbot.
